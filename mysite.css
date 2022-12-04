@@ -1,0 +1,76 @@
+.body1 {
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  
+  .one {
+    font-family: 'Sacramento', sans-serif;
+    color: #cffde1;
+    margin-top: 0;
+    margin: 0 auto 0 auto;
+    font-size: 90px;
+  }
+  
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .p1 {
+    color: #cffde1;
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    margin-top: 0;
+  }
+  
+  .top-container {
+    background-color: black;
+  }
+  
+  img {
+    width: 100%;
+  }
+  .circular {
+    border-radius: 100px;
+  }
+  .image {
+    width: 50%;
+  }
+  .para1 {
+    font-family: 'Sacramento', sans-serif;
+    font-size: 30px;
+  }
+  .para2 {
+    font-family: 'Sacramento', sans-serif;
+    font-size: 30px;
+  }
+  .image1 {
+    width: 200px;
+  }
+  .circular1 {
+    border-radius: 100px;
+  }
+  .service {
+    color: #a5f1e9;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+  }
+  .affi {
+    color: #a5f1e9;
+    font-size: 25px;
+  }
+  .founder {
+    color: #a5f1e9;
+    font-size: 25px;
+  }
+  .image2 {
+    width: 200px
+  }
+  .circular2 {
+    border-radius: 100px;
+  }
